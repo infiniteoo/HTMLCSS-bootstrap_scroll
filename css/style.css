@@ -1,5 +1,6 @@
 body {
   margin-top: 70px;
+  font-size: 16px;
 }
 
 h1,
@@ -57,4 +58,8 @@ p {
 #testimonial p.customer {
   font-size: 20px;
   color: #666;
+}
+
+#info1 .info-right {
+  margin-top: 90px;
 }
